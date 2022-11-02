@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import colors from "../../styeles/pallete"
+import colors from "../../styles/pallete"
 
 interface ContainerProps {
     s1: boolean

@@ -1,7 +1,5 @@
-import React, { useState } from "react";
 import { Toolbar } from "./components/Toolbar";
 import MainContainer from "./components/MainContainer";
-import { soma } from "./utils";
 
 function App() {
   return (
